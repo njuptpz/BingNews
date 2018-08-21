@@ -1,4 +1,4 @@
- ## Overall 
+ # Overall 
 |topic name|None|least biased|left bias|left-center bias|right bias|right-center bias|total|knowed-bias-type-num|
 | -------- |--------|--------|--------|--------|--------|--------|--------|--------|
 |[www aretha franklin](#www-aretha-franklin)|21|7|1|23|1|10|63|5|
@@ -80,13 +80,13 @@
 |zero-items-pecentage|29(38.7%)|51(68.0%)|67(89.3%)|25(33.3%)|58(77.3%)|35(46.7%)|11(14.7%)|14(18.7%)|
 
 
- ## Bias type analysis
+ ### Bias type analysis
 |type_num|1|2|3|4|5|6|7|8|9|10|11|
 | -------- |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 |item_num|21|19|9|7|5|0|0|0|0|0|0|
  # Sample result
  ## www aretha franklin
- ### MP-items 
++ #### MP-items 
 > [How **Aretha Franklin** found her voice](http://theconversation.com/how-aretha-franklin-found-her-voice-101708) (4)
 > 
 > `least biased` | `theconversation.com` 
@@ -112,7 +112,7 @@
 > `right-center bias` | `www.omaha.com` 
 >> There was only one **Aretha**, but, in her case, the first-name recognition evoked so much more than pop celebrity. **Aretha** was not a manufactured image like many of today’s performers, but a sound, a supernaturally wondrous sound from this natural woman who ... 
 > 
- ### old-items 
++ #### Old-items 
 > [David Maraniss: There can only ever be one **Aretha Franklin**](https://www.omaha.com/opinion/david-maraniss-there-can-only-ever-be-one-aretha-franklin/article_b2b3eaa5-c57c-5411-912f-90321f7c95fd.html) (1)
 > 
 >> There was only one **Aretha**, but, in her case, the first-name recognition evoked so much more than pop celebrity. **Aretha** was not a manufactured image like many of today’s performers, but a sound, a supernaturally wondrous sound from this natural woman who ... 
@@ -134,7 +134,7 @@
 >> The death of **Aretha Franklin** at the age of 76 has robbed us of one of the great singers of our time. She won 18 Grammy Awards and became the first female performer inducted in the Rock and Roll Hall of Fame. Not just the Queen of Soul but a performer who ... 
 > 
  ## trump omarosa
- ### MP-items 
++ #### MP-items 
 > [Candidate **Trump** might have won a lawsuit to silence **Omarosa**. President **Trump**, no way.](https://www.usatoday.com/story/opinion/2018/08/15/candidate-trump-might-have-silenced-omarosa-but-president-cant-column/996085002/) (2)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -160,7 +160,7 @@
 > `right-center bias` | `www.sun-sentinel.com` 
 >> When you make a reality TV star the president, you&#x27;re going to get a reality show White House. And when that reality TV star is Donald **Trump**, the reality show will have a particular character, one in which amid all the chaos and backstabbing is a cult of ... 
 > 
- ### old-items 
++ #### Old-items 
 > [**Omarosa** is exposing **Trump**’s deeply twisted view of loyalty](https://www.washingtonpost.com/blogs/plum-line/wp/2018/08/17/omarosa-is-exposing-trumps-deeply-twisted-view-of-loyalty/) (1)
 > 
 >> It is now emerging that members of the **Trump** family are angry and hurt by what they view as **Omarosa** Manigault Newman’s betrayal of them and of President **Trump. Omarosa** has just released another tape to MSNBC, this one appearing to confirm that Lara **Trump** ... 
@@ -182,7 +182,7 @@
 >> But no, it was a missive from the man himself. This week, of course, **Trump** referred to his ex-friend **Omarosa** in a tweet as “that dog.” I am going to go out on a limb and say that when the president of the United States insults a woman that way in a ... 
 > 
  ## saudi arabia and canada
- ### MP-items 
++ #### MP-items 
 > [**Canada** cut down for leading on human rights](https://www.stripes.com/opinion/canada-cut-down-for-leading-on-human-rights-1.541962) (34)
 > 
 > `least biased` | `www.stripes.com` 
@@ -203,7 +203,7 @@
 > `right-center bias` | `fortune.com` 
 >> Prime Minister Justin Trudeau won’t be scared off that easily. Less than a week after a comment by Canadian Foreign Minister Chrystia Freeland sparked a diplomatic dispute with the Kingdom of **Saudi** **Arabia**, Trudeau publicly commented on the escalation. 
 > 
- ### old-items 
++ #### Old-items 
 > [**Saudi** **Arabia**’s Problem Isn’t the **Canada** Fight, It’s Capital Flight](https://www.bloomberg.com/view/articles/2018-08-17/saudi-arabia-s-problem-not-the-canada-fight-but-capital-flight) (1)
 > 
 >> As **Saudi** **Arabia** raises the stakes in its dispute with **Canada**, the economic fallout could worsen an already serious issue for the kingdom: capital flight. Trade between the two countries is small, valued at roughly $4 billion, but the diplomatic dust-up has ... 
@@ -225,7 +225,7 @@
 >> **Saudi** **Arabia**’s diplomatic rift with **Canada** parallels what Sweden endured in 2015, but might prove more challenging to resolve. In late 2014, a newly elected Swedish government presented two major foreign and trade policy initiatives that should sound ... 
 > 
  ## players weekend mlb 2018
- ### MP-items 
++ #### MP-items 
 > [Google Didn’t Transform San Francisco. A **Baseball** **Player** Did.](http://www.msn.com/en-us/news/msn/google-didnt-transform-san-francisco-a-baseball-player-did/ar-BBLYI2N) (1)
 > 
 > `left-center bias` | `www.msn.com` 
@@ -241,7 +241,7 @@
 > `right-center bias` | `www.cincinnati.com` 
 >> Doc&#x27;s Morning Line blog: Reds **players** need to match the club&#x27;s marketing/promotions energy There are so many things fans can do at GABP away from the **baseball** action. At some point, the on-field product will need to hold up its end. Check out this story on ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Google Didn’t Transform San Francisco. A **Baseball** **Player** Did.](http://www.msn.com/en-us/news/msn/google-didnt-transform-san-francisco-a-baseball-player-did/ar-BBLYI2N) (1)
 > 
 >> Over the **weekend**, the San Francisco Giants retired the jersey number of Barry Bonds for his performance with the team over 15 years. While his **baseball** achievements were ... won the National League Most Valuable **Player** award. A couple years later in ... 
@@ -263,7 +263,7 @@
 >> Coming off another disappointing division series loss, the Yankees are hoping to bounce back as they welcome the Blue Jays to town for a three-game **weekend** set ... of those favorites you’d be down $276. **Baseball** is weird that way, so use caution when ... 
 > 
  ## sarah jeong
- ### MP-items 
++ #### MP-items 
 > [Times’ **Jeong** and Dems’ anti-police passion](https://wcfcourier.com/opinion/columnists/guest_columnists/times-jeong-and-dems-anti-police-passion/article_e8a04b7e-6605-5af2-bb5a-7055c5b63b80.html) (11)
 > 
 > `least biased` | `wcfcourier.com` 
@@ -284,7 +284,7 @@
 > `right-center bias` | `www.richmond.com` 
 >> The New York Times recently hired as a writer and editorial board member **Sarah Jeong**. The Times knew that in recent years **Jeong** had posted a series of unapologetically racist anti-white tweets. She had offered wisdom such as #CancelWhitePeople” and ... 
 > 
- ### old-items 
++ #### Old-items 
 > [The Outrage Over **Sarah Jeong**](https://www.nytimes.com/2018/08/09/opinion/sarah-jeong-tweets-opinion-section.html) (1)
 > 
 >> In March, a liberal furor erupted when The Atlantic magazine briefly hired Kevin Williamson, a conservative writer with National Review. Several years earlier, Williamson had written a short tweet in which he seemed to suggest that women who obtain ... 
@@ -306,7 +306,7 @@
 >> So, can nonwhite Americans be racist? This question reared its ugly head this week after revelations about The New York Times’ latest editorial board hire, **Sarah Jeong**. **Jeong**, a technology writer for The Verge, has long decried white people as a group. 
 > 
  ## trump n word tape
- ### MP-items 
++ #### MP-items 
 > [Kimmel examines **Trump**&#x27;s vocabulary in light of Omarosa&#x27;s tell-all book](https://www.usatoday.com/story/opinion/2018/08/15/jimmy-kimmel-donald-trump-omarosa-punchlines/997493002/) (13)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -332,7 +332,7 @@
 > `right-center bias` | `www.azcentral.com` 
 >> And the ramifications would be... Given all that, what would happen if a **tape** of **Trump** using the **N**-**word** were to surface? Nothing. The people who worship **Trump** would continue to worship him. Those who revile him would continue to revile him. As for ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Why **Trump** would survive an **N**-**word** **tape**: It may not be true, but even if it is, he&#x27;ll be fine with supporters](http://www.nydailynews.com/opinion/ny-oped-trump-would-survive-nword-tape-20180815-story.html) (1)
 > 
 >> Omarosa Manigault-Newman should never have been allowed to breathe Situation Room air, and that she did, while jeopardizing national security, is a sad and frightening testament to the **Trump** administration’s utter lack of seriousness from its conception. 
@@ -354,7 +354,7 @@
 >> However, if a **tape** of **Trump** using the **n** **word** appears, a **tape** that former White House staffer Omarosa Manigault Newman says exists, does the GOP have a cutoff point? What stance will the Republican Party take? Impeachment or apology? What is troubling ... 
 > 
  ## ohio state urban meyer
- ### MP-items 
++ #### MP-items 
 > [**Ohio** **State** must fire **Urban** **Meyer** if he was protecting serial abuser](https://www.usatoday.com/story/sports/college/columnist/dan-wolken/2018/08/01/ohio-state-must-fire-urban-meyer-if-he-protecting-serial-abuser/883518002/) (8)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -375,7 +375,7 @@
 > `right-center bias` | `www.orlandosentinel.com` 
 >> With speculation mounting that **Ohio** **State** coach **Urban** **Meyer** will not be fired but rather suspended for his lack of timely response to allegations of habitual domestic abuse by assistant coach Zach Smith, I can&#x27;t help but consider the similarities of this ... 
 > 
- ### old-items 
++ #### Old-items 
 > [**Urban** **Meyer** might have done what was required, but he didn&#x27;t do what&#x27;s right](https://www.coloradoan.com/story/sports/columnist/nancy-armour/2018/08/08/ohio-states-urban-meyer-didnt-do-whats-right/934729002/) (1)
 > 
 >> **Ohio** **State** is in the process of determining whether **Urban** **Meyer** met the school’s reporting requirements after learning in 2015 about more domestic violence allegations against then-assistant Zach Smith. Regardless of what the school finds, however ... 
@@ -397,7 +397,7 @@
 >> A former **Ohio** **State** assistant coach has been identified as the source of a report that head coach **Urban** **Meyer** knew of domestic abuse allegations against his former wide receivers coach, according to sports writer and author Jeff Snook. Tom Herman, now the ... 
 > 
  ## aretha franklin today
- ### MP-items 
++ #### MP-items 
 > [Susan Dalgety: Real America looks nothing like Wyoming or South Dakota](https://www.scotsman.com/news/opinion/susan-dalgety-real-america-looks-nothing-like-wyoming-or-south-dakota-1-4786095) (25)
 > 
 > `least biased` | `www.scotsman.com` 
@@ -423,7 +423,7 @@
 > `right-center bias` | `www.omaha.com` 
 >> ... image like many of **today**’s performers, but a sound, a supernaturally wondrous sound from this natural woman who made us all feel so alive. If the human voice is the most glorious of instruments, **Aretha** **Franklin**, who died Thursday at age 76, was the ... 
 > 
- ### old-items 
++ #### Old-items 
 > [How to Keep **Aretha**&#x27;s Music Playing](https://townhall.com/columnists/calthomas/2018/08/21/how-to-keep-arethas-music-playing-n2511423) (1)
 > 
 >> **Aretha** **Franklin** began singing in church ... and even acts of murder perpetrated by racists, a word that **today** is too lightly and too often overused. Little Richard tells a story about how he and other black artists would writes songs only to see the ... 
@@ -445,7 +445,7 @@
 >> Death knocked on **Aretha** **Franklin**’s door numerous times over the past few years. And she shut the door in his face. She had too much to do. Some people might have thought it was the supper club she had planned to open downtown, not far from where she ... 
 > 
  ## john brennan security clearance
- ### MP-items 
++ #### MP-items 
 > [Donald Trump has put **John** **Brennan** at the top of a new &#x27;Enemies List&#x27;](https://www.usatoday.com/story/opinion/2018/08/20/donald-trump-john-brennan-security-clearance-comey-clapper-intelligence-column/1037120002/) (1)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -471,7 +471,7 @@
 > `right-center bias` | `www.investors.com` 
 >> Nation&#x27;s Secrets: Democrats and spy agency bureaucrats squealed with rage after President Trump pulled former CIA Director **John** **Brennan**&#x27;s **security** **clearance**. Why are they upset? **Brennan** clearly abused his privileged **security** **clearance** by using it for ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Donald Trump has put **John** **Brennan** at the top of a new &#x27;Enemies List&#x27;](https://www.usatoday.com/story/opinion/2018/08/20/donald-trump-john-brennan-security-clearance-comey-clapper-intelligence-column/1037120002/) (1)
 > 
 >> And so it is with the current scandal over the president pulling former CIA director **John** **Brennan**’s **security** **clearance**. **Brennan** is not a sympathetic case, which is perhaps why Trump went after him: the former career CIA official’s critics have argued ... 
@@ -493,7 +493,7 @@
 >> Much like President Donald Trump, former CIA Director **John** **Brennan** is not one to back away from ... Just the same, Trump punished him for his insolence, yanking **Brennan**&#x27;s **security** **clearance** and threatening to do the same for other former officials and ... 
 > 
  ## manafort trial
- ### MP-items 
++ #### MP-items 
 > [U.S. judge apologizes to prosecutors in former Trump aide **Manafort**&#x27;s **trial**](https://www.reuters.com/article/us-usa-trump-russia-manafort-judge/judge-backs-off-comments-to-prosecutors-in-ex-trump-aide-manaforts-trial-idUSKBN1KU1Y7) (3)
 > 
 > `least biased` | `www.reuters.com` 
@@ -514,7 +514,7 @@
 > `right-center bias` | `www.reviewjournal.com` 
 >> Gates is the 46-year-old former right-hand man to **Manafort**, who, in exchange for a lesser sentence, testified against his former boss during the first jury **trial** resulting from special counsel Robert Mueller’s probe into Russian interference in the 2016 ... 
 > 
- ### old-items 
++ #### Old-items 
 > [The extraordinary bias of the judge in the **Manafort trial**](https://www.washingtonpost.com/opinions/the-extraordinary-bias-of-the-judge-in-the-manafort-trial/2018/08/16/aca48040-a16c-11e8-83d2-70203b8d7b44_story.html) (1)
 > 
 >> Nancy Gertner, a retired U.S. District Court judge in Massachusetts, is a lecturer at Harvard Law School. It is not unusual for judges to intervene in court proceedings from time to time — to direct the lawyers to move the case along or to admonish them ... 
@@ -536,7 +536,7 @@
 >> ALEXANDRIA, Va. — Paul **Manafort** left a money trail “littered with lies,” prosecutor Greg Andres told a jury during closing arguments in his bank-and-tax fraud **trial** on Wednesday, while defense attorney Richard Westling said **Manafort** was only charged ... 
 > 
  ## missing iowa college student
- ### MP-items 
++ #### MP-items 
 > [Don’t forget to volunteer](https://globegazette.com/brittnewstribune/opinion/editorials/don-t-forget-to-volunteer/article_1944dfe3-c9bf-571c-8a25-db25049233f7.html) (3)
 > 
 > `least biased` | `globegazette.com` 
@@ -557,7 +557,7 @@
 > `right-center bias` | `www.dallasnews.com` 
 >> If the goal for dual-credit classes is just to have **students** graduate from high school with **college** credit, then we&#x27;re **missing** the point. High school **students** taking **college**-level courses must be able to do **college** work, not just amass **college** credits. 
 > 
- ### old-items 
++ #### Old-items 
 > [In My **Iowa** Town, We Need Immigrants](https://www.nytimes.com/2018/07/30/opinion/trump-immigrants-iowa-farmers-workers.html) (1)
 > 
 >> “We can’t have people with open borders,” the president said at Northeast **Iowa** Community **College** in Peosta ... in the second grade at North School in Storm Lake. He helped other **students** learn English. Everyone loved him. Then the immigration ... 
@@ -579,7 +579,7 @@
 >> Being plugged into the news cycle that blares forth as I sit at that computer can feel overwhelming. There are **missing** **students** and children separated from their parents, bombing victims in Syria and protesters shot in Zimbabwe. There are dire warnings ... 
 > 
  ## james gunn offensive tweets
- ### MP-items 
++ #### MP-items 
 > [Unbridled outrage over **tweets** is exhausting and pointless](https://www.sfchronicle.com/opinion/article/Unbridled-outrage-over-tweets-is-exhausting-and-13128320.php) (3)
 > 
 > `left-center bias` | `www.sfchronicle.com` 
@@ -595,7 +595,7 @@
 > `right-center bias` | `www.sun-sentinel.com` 
 >> One of the people who led, or at least joined in, the virtual mob was Hollywood director **James** **Gunn**, who tweeted during ... Two months later, **Gunn**&#x27;s own past **offensive** **tweets** were unearthed and he lost his job directing the &quot;Guardians of the Galaxy ... 
 > 
- ### old-items 
++ #### Old-items 
 > [‘Guardians of the Galaxy’ Stars Chris Pratt and Zoe Saldana Break Silence on **James** **Gunn**’s Firing](http://comicbook.com/marvel/2018/07/23/guardians-of-the-galaxy-vol-3-james-gunn-fired-zoe-saldana-chris-pratt-respond-comments/) (1)
 > 
 >> Guardians of the Galaxy and Avengers: Infinity War stars Chris Pratt and Zoe Saldana have published their first **tweets** since Guardians of the Galaxy Vol. 3 writer-director **James** **Gunn** was fired by Disney Friday after years of **offensive** **tweets** came to light. 
@@ -617,7 +617,7 @@
 >> Delete **tweets**? This is why I did it and why you should consider doing it, too You see how you&#x27;ve grown since your **tweets** from 10 years ago, but others see the **tweets** as a permanent statement of your character. Check out this story on desmoinesregister.com ... 
 > 
  ## turkey crisis
- ### MP-items 
++ #### MP-items 
 > [Can **Turkey** Rewrite the **Crisis**-Management Rules?](https://www.project-syndicate.org/commentary/turkey-unconventional-crisis-response-by-mohamed-a--el-erian-2018-08) (4)
 > 
 > `least biased` | `www.project-syndicate.org` 
@@ -633,7 +633,7 @@
 > `right-center bias` | `www.washingtonexaminer.com` 
 >> U.S.-**Turkey** relations are now so poor that the longstanding alliance is in danger. Consider the new U.S. tariffs targeting President Recep Tayyip Erdogan&#x27;s economy that were introduced on Friday. I have just authorized a doubling of Tariffs on Steel and ... 
 > 
- ### old-items 
++ #### Old-items 
 > [**Turkey**’s **crisis** shows a deeper disease – and Asia is infected too](https://www.msn.com/en-sg/news/other/turkeys-crisis-shows-a-deeper-disease-and-asia-is-infected-too/ar-BBM9YrA) (1)
 > 
 >> As **Turkey**’s lira **crisis** has deepened over the last few weeks, businesspeople and investors around Asia have asked themselves whether **Turkey**’s troubles could spread by contagion and infect the region. For the most part the answer they come up with is ... 
@@ -655,7 +655,7 @@
 >> President Erdoğan won elections on the back of an economy that was boosted by cheap credit. Now the bills are coming due and no provision has been made to pay them This is an emergency in the real economy: **Turkey** is almost wholly reliant on crude oil ... 
 > 
  ## zach smith ohio state
- ### MP-items 
++ #### MP-items 
 > [Urban Meyer, DJ Durkin have failed as football coaches and human beings](https://www.usatoday.com/story/sports/columnist/brennan/2018/08/15/urban-meyer-d-j-durkin-have-failed-football-coaches-and-human-beings/1001387002/) (12)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -676,7 +676,7 @@
 > `right-center bias` | `www.dispatch.com` 
 >> We asked the court to review action by the city of Powell, which refuses to release records surrounding a 2015 incident in which former **Ohio** **State** assistant football coach **Zach** **Smith** was accused of domestic violence. Powell’s police department has ... 
 > 
- ### old-items 
++ #### Old-items 
 > [**Ohio** **State** domestic violence case all too familiar](http://www.baltimoresun.com/news/opinion/oped/bs-ed-op-0817-ipv-awareness-20180816-story.html) (1)
 > 
 >> **Zach** **Smith**. A coach who was part of Mr. Meyer’s team when he coached at the University of Florida and was brought with Mr. Meyer to **Ohio** **State**. While we may never know the truth about who did and said what and when, this story highlights several things ... 
@@ -698,7 +698,7 @@
 >> ... **Ohio** **State** values winning above truth **Ohio** **State** will fire Urban Meyer for lying about **Zach** **Smith**&#x27;s domestic violence allegations, unless OSU would rather just win Big Ten football games. Check out this story on IndyStar.com: https://indy.st/2OH2fXA 
 > 
  ## urban meyer investigation
- ### MP-items 
++ #### MP-items 
 > [**Urban** **Meyer**, DJ Durkin have failed as football coaches and human beings](https://www.usatoday.com/story/sports/columnist/brennan/2018/08/15/urban-meyer-d-j-durkin-have-failed-football-coaches-and-human-beings/1001387002/) (1)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -714,7 +714,7 @@
 > `right-center bias` | `www.dispatch.com` 
 >> The 2015 incident received heightened attention when head football coach **Urban** **Meyer** fired Smith on July 23 ... Such records typically shed light on the details of a complaint and the **investigation**. In this case, both of the people involved in the case ... 
 > 
- ### old-items 
++ #### Old-items 
 > [**Urban** **Meyer**, DJ Durkin have failed as football coaches and human beings](https://www.usatoday.com/story/sports/columnist/brennan/2018/08/15/urban-meyer-d-j-durkin-have-failed-football-coaches-and-human-beings/1001387002/) (1)
 > 
 >> Ohio State football: What we know about **Urban Meyer investigation** Maryland football: What we know about **investigation** into culture of DJ Durkin&#x27;s program **Meyer** harbored on his staff an assistant coach, Zach Smith, who physically abused his wife ... 
@@ -736,7 +736,7 @@
 >> Keep in mind that while Ohio State head coach **Urban** **Meyer** and Maryland head coach DJ Durkin are on ... said that while he and Muschamp were supportive of Maryland’s **investigation** he agreed with Muschamp’s concern about anonymous sources. 
 > 
  ## omarosa tapes
- ### MP-items 
++ #### MP-items 
 > [**Omarosa**&#x27;s **tapes** are concerning on a national security level ... but we still want to hear them: Today&#x27;s talker](https://www.usatoday.com/story/opinion/2018/08/13/omarosas-tapes-bring-security-concerns-but-release-them-talker/976101002/) (2)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -752,7 +752,7 @@
 > `right-center bias` | `www.sun-sentinel.com` 
 >> While much of the attention is focused on all the interpersonal nastiness and allegations of things like the president being on **tape** using the n-word (would anyone be surprised?), I&#x27;d like to focus on one thing **Omarosa** has brought to light that isn&#x27;t in ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Of course **Omarosa** has **tapes**](https://www.washingtonpost.com/opinions/omarosa-exposes-the-white-house-but-can-we-trust-her/2018/08/13/ac93fba0-9f30-11e8-83d2-70203b8d7b44_story.html) (1)
 > 
 >> It’s hard to take **Omarosa** Manigault Newman’s word for anything. But Lordy, she has **tapes**, and they offer vivid proof that Donald Trump’s White House is part clown show, part nest of vipers. **Omarosa** achieved single-name fame as a contestant on Trump ... 
@@ -774,7 +774,7 @@
 >> COLUMN: Trump and **Omarosa** deserve each other » In the secret **tapes**, reported by The Associated Press and others, Kelly is heard saying: “It’s come to my attention over the last few months that there’s been some pretty, in my opinion, significant ... 
 > 
  ## omarosa tape
- ### MP-items 
++ #### MP-items 
 > [**Omarosa**&#x27;s **tapes** are concerning on a national security level ... but we still want to hear them: Today&#x27;s talker](https://www.usatoday.com/story/opinion/2018/08/13/omarosas-tapes-bring-security-concerns-but-release-them-talker/976101002/) (2)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -790,7 +790,7 @@
 > `right-center bias` | `www.sun-sentinel.com` 
 >> While much of the attention is focused on all the interpersonal nastiness and allegations of things like the president being on **tape** using the n-word (would anyone be surprised?), I&#x27;d like to focus on one thing **Omarosa** has brought to light that isn&#x27;t in ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Of course **Omarosa** has **tapes**](https://www.washingtonpost.com/opinions/omarosa-exposes-the-white-house-but-can-we-trust-her/2018/08/13/ac93fba0-9f30-11e8-83d2-70203b8d7b44_story.html) (1)
 > 
 >> It’s hard to take **Omarosa** Manigault Newman’s word for anything. But Lordy, she has **tapes**, and they offer vivid proof that Donald Trump’s White House is part clown show, part nest of vipers. **Omarosa** achieved single-name fame as a contestant on Trump ... 
@@ -812,7 +812,7 @@
 >> While much of the attention is focused on all the interpersonal nastiness and allegations of things like the president being on **tape** using the n-word (would anyone be surprised?), I&#x27;d like to focus on one thing **Omarosa** has brought to light that isn&#x27;t in ... 
 > 
  ## missing college student
- ### MP-items 
++ #### MP-items 
 > [South China Sea stakes not limited to China, ASEAN](https://www.japantimes.co.jp/opinion/2018/08/06/editorials/south-china-sea-stakes-not-limited-china-asean/) (6)
 > 
 > `least biased` | `www.japantimes.co.jp` 
@@ -828,7 +828,7 @@
 > `right-center bias` | `www.washingtontimes.com` 
 >> It’s also important to point out why a certain two aging reservoirs - Addicks and Barker - are **missing** from the bond package ... Aug. 7, 2018. On **university** campuses across the country, scientists and engineers are scrambling to develop a radically ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Putnam: MSU police arrest man who helped search for neighbors&#x27; **missing** dog](https://www.lansingstatejournal.com/story/opinion/columnists/judy-putnam/2018/08/14/msu-michigan-state-university-police-arrest-man-who-helped-search-neighbors-missing-dog/991003002/) (1)
 > 
 >> LANSING – In the category of good deed not going unpunished, a man who joined the search for his neighbors&#x27; **missing** dog this spring has been arrested for fleeing and eluding Michigan State **University** police during the search. Sam Shaw Jr., 25 ... 
@@ -850,7 +850,7 @@
 >> The heavy rains in western Japan a month ago, which left more than 230 residents dead or **missing** in landslides and floods in ... The alleged manipulation of entrance exam scores at Tokyo Medical **University** to limit the number of successful female ... 
 > 
  ## trump calls omarosa a dog
- ### MP-items 
++ #### MP-items 
 > [**Omarosa** fires back at **Trump**: ‘I do not answer to that of low-life or **dog**’](https://thegrio.com/2018/08/15/omarosa-responds-to-trump-dog-comment/) (7)
 > 
 > `left bias` | `thegrio.com` 
@@ -871,7 +871,7 @@
 > `right-center bias` | `www.washingtonexaminer.com` 
 >> [CNN&#x27;s John Berman: &#x27;Compelling case&#x27; that **Trump** calling **Omarosa** **a &#x27;dog**&#x27; was motivated by race] These would be great points were it not for the fact that **Trump** **calls** everyone he dislikes an idiot. He&#x27;s also fond of referring to people as dogs (see my ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Is it racist to **call** a black woman **a dog**](https://www.newsday.com/opinion/commentary/omarosa-donald-trump-dog-1.20596236) (1)
 > 
 >> Our president **calls** so many people so many names that we hardly notice unless an insult has an extra dose of venom, that is, it’s not only crude and mean but also, say, racist. So when President **Trump** called **Omarosa** Manigault Newman **a “dog**” last week ... 
@@ -893,7 +893,7 @@
 >> A quick note of protest to President Donald **Trump**, from my large and very ... Just this week, you described **Omarosa** Manigault Newman, a human female person who worked for you, as “that **dog**.” You also sent the following things on Twitter, which is ... 
 > 
  ## new mexico compound
- ### MP-items 
++ #### MP-items 
 > [Editorial: Pre-trial detention on trial – again](https://www.abqjournal.com/1210677/editorial-pre-trial-detention-on-trial-again.html) (5)
 > 
 > `least biased` | `www.abqjournal.com` 
@@ -909,7 +909,7 @@
 > `right-center bias` | `www.bostonherald.com` 
 >> Even schoolchildren know that is wrong. A judge in **New** **Mexico** grants freedom without bail to three women and two men who were harboring starving children in a filthy **compound**, teaching the eldest how to shoot up a school and hiding the body of a toddler in ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Pretrial Release Is Wrong. Terrorism Is Clearly A Danger To The Community.](https://townhall.com/columnists/marinamedvin/2018/08/15/pretrial-release-is-wrong-terrorism-is-clearly-a-danger-to-the-community-n2509870) (1)
 > 
 >> About a week ago, authorities responded to a report of children living in **New** **Mexico** in filthy conditions, starving, and exposed to physical dangers. What authorities found was even more disturbing: an “extremist Muslim” **compound** where children were ... 
@@ -931,7 +931,7 @@
 >> Radio and television reporting and commentary were certainly focused on something between Aug. 3 and Aug. 10, but it wasn’t a **compound** in **New** **Mexico**, according to subject-specific mentions compiled by TVEyes: You’d think that a **compound** training 11 ... 
 > 
  ## omarosa book
- ### MP-items 
++ #### MP-items 
 > [Kimmel examines Trump&#x27;s vocabulary in light of **Omarosa**&#x27;s tell-all **book**](https://www.usatoday.com/story/opinion/2018/08/15/jimmy-kimmel-donald-trump-omarosa-punchlines/997493002/) (3)
 > 
 > `least biased` | `www.usatoday.com` 
@@ -947,7 +947,7 @@
 > `right bias` | `www.foxnews.com` 
 >> Former White House staff member, **Omarosa** Maginault Newman, is out with a new **book**. She revealed, with no personal shame, that she had taped conversations while she worked in the White House, including with the president in the Oval Office and the chief of ... 
 > 
- ### old-items 
++ #### Old-items 
 > [Dana Perino: **Omarosa**&#x27;s **book** will be forgotten -- her despicable behavior will not](http://www.foxnews.com/opinion/2018/08/13/dana-perino-omarosas-book-will-be-forgotten-her-despicable-behavior-will-not.html) (1)
 > 
 >> Former White House staff member, **Omarosa** Maginault Newman, is out with a new **book**. She revealed, with no personal shame, that she had taped conversations while she worked in the White House, including with the president in the Oval Office and the chief of ... 
@@ -968,4 +968,3 @@
 > 
 >> **Omarosa** Manigault Newman, the reality show villain who campaigned ... Naturally, Manigault Newman’s new **book**, “Unhinged: An Insider’s Account of the Trump White House,” is self-serving, a way to avenge her 2017 firing and make money telling us ... 
 > 
-
