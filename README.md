@@ -773,6 +773,72 @@
 > 
 >> COLUMN: Trump and **Omarosa** deserve each other » In the secret **tapes**, reported by The Associated Press and others, Kelly is heard saying: “It’s come to my attention over the last few months that there’s been some pretty, in my opinion, significant ... 
 > 
+ ## bridge collapse in italy
++ #### MP-items 
+> [The **Italian** **bridge** **collapse** should be a deadly warning for the United States](https://www.washingtonpost.com/opinions/the-italian-bridge-collapse-should-be-a-deadly-warning-for-the-united-states/2018/08/17/83720928-a166-11e8-a3dd-2a1991f075d5_story.html) (1)
+> 
+> `left-center bias` | `www.washingtonpost.com` 
+>> Regarding the Aug. 15 front-page article “**Bridge** **collapse** kills dozens **in Italy**”: The **Italian** **bridge** **collapse** should raise red flags galore about crumbling infrastructure in the United States. A repeat of the **Italian** tragedy in the United States is not ... 
+> 
+> [Operator of **collapsed** **bridge** **in Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (3)
+> 
+> `right-center bias` | `www.straitstimes.com` 
+>> GENOA (REUTERS) - **Italian** toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in Genoa this week killing at least 40 people, but its chief executive stopped short of apologising for the disaster. 
+> 
++ #### Old-items 
+> [The **Italian** **bridge** **collapse** should be a deadly warning for the United States](https://www.washingtonpost.com/opinions/the-italian-bridge-collapse-should-be-a-deadly-warning-for-the-united-states/2018/08/17/83720928-a166-11e8-a3dd-2a1991f075d5_story.html) (1)
+> 
+>> Regarding the Aug. 15 front-page article “**Bridge** **collapse** kills dozens **in Italy**”: The **Italian** **bridge** **collapse** should raise red flags galore about crumbling infrastructure in the United States. A repeat of the **Italian** tragedy in the United States is not ... 
+> 
+> [The Guardian view on the Genoa **bridge** **collapse**: human disaster and **Italian** parable](https://www.theguardian.com/commentisfree/2018/aug/16/the-guardian-view-on-the-genoa-bridge-collapse-human-disaster-and-italian-parable) (2)
+> 
+>> ‘Explaining why the **bridge** **collapsed** is a key task. The central question is whether the Morandi **bridge**’s original design was more to blame than the failure to maintain or close it.’ Photograph: Luca Zennaro/EPA British people know as keenly as any ... 
+> 
+> [Operator of **collapsed** **bridge** **in Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (3)
+> 
+>> GENOA (REUTERS) - **Italian** toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in Genoa this week killing at least 40 people, but its chief executive stopped short of apologising for the disaster. 
+> 
+> [Twenty killed as **Italian** highway **bridge** **collapses**](http://www.sentinelandenterprise.com/editorial/ci_32069859/twenty-killed-italian-highway-bridge-collapses) (4)
+> 
+>> MILAN (AP) -- A highway **bridge** **collapsed** Tuesday in the **Italian** city of Genoa during a violent storm, sending vehicles plunging 45 meters (nearly 150 feet) into a heap of rubble. Authorities said at least 20 people were killed, although some people were ... 
+> 
+> [The Irish Times view on the Genoa **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (5)
+> 
+>> The horrifying **collapse** of the Morandi **bridge** in Genoa, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+ ## aretha franklin illness
++ #### MP-items 
+> [Jesse Jackson on **Aretha** **Franklin**&#x27;s quiet but profound civil rights legacy](https://www.freep.com/story/news/columnists/rochelle-riley/2018/08/15/aretha-franklin-civil-rights-detroit/996436002/) (1)
+> 
+> `left-center bias` | `www.freep.com` 
+>> Death knocked on **Aretha** **Franklin**’s door numerous times over the past few years ... nearly a dozen times in the past “two or three years during the course of her **illness**. &quot;I was with her a few weeks ago. I was at one of her last Christmas parties ... 
+> 
+> [Notes and Notables: A natural woman](http://www.dailypress.com/news/opinion/editorials/dp-edt-notes-notables-0817-story.html) (4)
+> 
+> `right-center bias` | `www.dailypress.com` 
+>> **Aretha** **Franklin**, a repeat performer at the Hampton Jazz Festival ... Parrott passed away Sunday, Aug. 12 following a long **illness**. In March, she was installed as the 10th senior pastor of First Baptist Church, along North King Street, in Hampton. 
+> 
++ #### Old-items 
+> [Jesse Jackson on **Aretha** **Franklin**&#x27;s quiet but profound civil rights legacy](https://www.freep.com/story/news/columnists/rochelle-riley/2018/08/15/aretha-franklin-civil-rights-detroit/996436002/) (1)
+> 
+>> Death knocked on **Aretha** **Franklin**’s door numerous times over the past few years ... nearly a dozen times in the past “two or three years during the course of her **illness**. &quot;I was with her a few weeks ago. I was at one of her last Christmas parties ... 
+> 
+> [Remembering **Aretha** as socially conscious soul singer](https://www.reporternews.com/story/opinion/contributors/2018/08/17/remembering-aretha-socially-conscious-soul-singer/1008873002/) (2)
+> 
+>> Death knocked on **Aretha** **Franklin**’s door numerous times over the past few years ... who said he met with her nearly a dozen times in the past &quot;two or three years during the course of her **illness**.&quot; Jackson and I speak of Ms. **Franklin** in the present ... 
+> 
+> [**Aretha**&#x27;s star burns brightly](https://www.indianagazette.com/opinion/aretha-s-star-burns-brightly/article_ee8550b0-469f-53a9-aa7f-52b25efefa76.html) (3)
+> 
+>> In 1967, promoter Pervis Spann placed a crown on **Aretha** **Franklin**’s head and recognized her as the Queen ... and makes vague reference to recent **health** problems that may substantiate earlier reports that she had pancreatic cancer. Just a couple of years ... 
+> 
+> [Notes and Notables: A natural woman](http://www.dailypress.com/news/opinion/editorials/dp-edt-notes-notables-0817-story.html) (4)
+> 
+>> **Aretha** **Franklin**, a repeat performer at the Hampton Jazz Festival ... Parrott passed away Sunday, Aug. 12 following a long **illness**. In March, she was installed as the 10th senior pastor of First Baptist Church, along North King Street, in Hampton. 
+> 
+> [Protect Social Security or learn to love tax cuts](http://www.register-herald.com/opinion/protect-social-security-or-learn-to-love-tax-cuts/article_5a155d9c-c892-569e-ae81-1cb146855fbc.html) (5)
+> 
+>> But what is obvious, that a stark choice is ahead of us on whether to continue to address major social issues like aging and **health** care collectively through ... Queen of Soul **Aretha** **Franklin** died at her home in Detroit on Aug. 16 at the age of 76, leaving ... 
+> 
  ## omarosa tape
 + #### MP-items 
 > [**Omarosa**&#x27;s **tapes** are concerning on a national security level ... but we still want to hear them: Today&#x27;s talker](https://www.usatoday.com/story/opinion/2018/08/13/omarosas-tapes-bring-security-concerns-but-release-them-talker/976101002/) (2)
@@ -849,6 +915,72 @@
 > 
 >> The heavy rains in western Japan a month ago, which left more than 230 residents dead or **missing** in landslides and floods in ... The alleged manipulation of entrance exam scores at Tokyo Medical **University** to limit the number of successful female ... 
 > 
+ ## flood in kerala
++ #### MP-items 
+> [India&#x27;s **Kerala** state hit by worst **flood** in a century](https://www.aljazeera.com/indepth/inpictures/india-kerala-state-devastated-worst-flood-century-180817141439797.html) (8)
+> 
+> `left-center bias` | `www.aljazeera.com` 
+>> Death toll from **floods** in southern state of **Kerala** jumps to hundreds, with more than 220,000 forced from their homes. Sun Aug 19 2018 08:30:28 GMT+0000 An elderly woman is rescued in a cooking utensil after her home was flooded in Thrissur, **Kerala** state ... 
+> 
+> [**Kerala**’s resilience shines through **floods**](https://gulfnews.com/opinion/editorials/kerala-s-resilience-shines-through-floods-1.2268273) (4)
+> 
+> `right-center bias` | `gulfnews.com` 
+>> The south Indian state of **Kerala**, reeling from the worst **flooding** in nearly a century, has shown remarkable resilience in battling the natural calamity. More than 350 people have been killed since the monsoon hit the state on May 29. But the toll would ... 
+> 
++ #### Old-items 
+> [With no Noah’s ark, **flood**-hit **Kerala** turns war zone, replete with refugee camps](http://www.newindianexpress.com/opinions/2018/aug/20/with-no-noahs-ark-flood-hit-kerala-turns-war-zone-replete-with-refugee-camps-1860010.html) (1)
+> 
+>> The scenes could well be from a war-torn area, replete with evacuations on a war-footing. As wars go, it may never catch the attention of the international community as a recent Syria or a distant Bosnia. But the damage is just as mind-numbing. The ongoing ... 
+> 
+> [**Kerala** athletes at Asiad fret over kin amid **flood** havoc](https://english.manoramaonline.com/in-depth/asian-games-2018/2018/08/20/kerala-athletes-asiad-fret-over-kin-flood-havoc.html) (2)
+> 
+>> Swimmer Sajan Prakash, who finished fifth in the 200 m butterfly event, is still awaiting some update on his family members but managed to break the national record nonetheless. New Delhi/Jakarta: The tragedy unfolding in the aftermath of the **Kerala** **floods** ... 
+> 
+> [Opinion  **Kerala** **floods**: An unprecedented tragedy foretold](https://www.livemint.com/Opinion/w3QBtwsVp5i0ZQrZ9PRqyK/Opinion--Kerala-floods-An-unprecedented-tragedy-foretold.html) (3)
+> 
+>> Last week, **Kerala** faced the brunt of an unprecedented **flood**, which has almost brought the state to a standstill. An anguished tweet put out by chief minister Pinarayi Vijayan summed up the crisis: “**Kerala** is facing its worst **flood** in 100 years. 
+> 
+> [**Kerala**’s resilience shines through **floods**](https://gulfnews.com/opinion/editorials/kerala-s-resilience-shines-through-floods-1.2268273) (4)
+> 
+>> The south Indian state of **Kerala**, reeling from the worst **flooding** in nearly a century, has shown remarkable resilience in battling the natural calamity. More than 350 people have been killed since the monsoon hit the state on May 29. But the toll would ... 
+> 
+> [**Kerala** **floods**](https://www.thehindu.com/opinion/letters/kerala-floods/article24720812.ece) (5)
+> 
+>> The **floods** **in Kerala** have shown the absence of quality and robust trials related to disaster communication. Strategies being identified as useful by public managers in the context of the **Kerala** **floods** should be fine-tuned. The media based **in Kerala** is ... 
+> 
+ ## genoa italy bridge collapse
++ #### MP-items 
+> [The Irish Times view on the **Genoa** **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (1)
+> 
+> `left-center bias` | `www.irishtimes.com` 
+>> The horrifying **collapse** of the Morandi **bridge** in **Genoa**, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+> [Operator of **collapsed** **bridge** in **Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (5)
+> 
+> `right-center bias` | `www.straitstimes.com` 
+>> **GENOA** (REUTERS) - Italian toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in **Genoa** this week ... The company is under intense fire from **Italy**’s new anti-establishment government after the ... 
+> 
++ #### Old-items 
+> [The Irish Times view on the **Genoa** **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (1)
+> 
+>> The horrifying **collapse** of the Morandi **bridge** in **Genoa**, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+> [The Guardian view on the **Genoa** **bridge** **collapse**: human disaster and Italian parable](https://www.theguardian.com/commentisfree/2018/aug/16/the-guardian-view-on-the-genoa-bridge-collapse-human-disaster-and-italian-parable) (2)
+> 
+>> It now seems inevitable that Tuesday’s **collapse** of the Morandi road **bridge** in **Genoa** will become that kind of event for modern **Italy**. Nearly three days on, important questions are beginning to be asked about the **bridge**’s construction, about maintenance ... 
+> 
+> [The **Genoa** **bridge** **collapse** is **Italy**’s Grenfell – and the government is too busy scapegoating migrants to get to the bottom of why it happened](https://www.independent.co.uk/voices/genoa-bridge-collapse-morandi-bridge-autostrade-per-litalia-five-star-movement-league-a8493201.html) (3)
+> 
+>> The **Genoa** **bridge** disaster which has so far taken 39 lives is a tragedy that could have been avoided. However, while politicians and contractors rush to point the finger of blame at anyone but themselves, it is becoming increasingly clear that the real ... 
+> 
+> [Spanish government declines to comment on any impact of **Genoa** **bridge** disaster on deal to buy Abertis](https://uk.reuters.com/article/uk-italy-motorway-collapse-spain/spanish-government-declines-to-comment-on-any-impact-of-genoa-bridge-disaster-on-deal-to-buy-abertis-idUKKCN1L51RE?feedType=RSS&feedName=worldNews) (4)
+> 
+>> MADRID (Reuters) - Spain’s Public Works Ministry declined to comment on Monday on whether a motorway **bridge** **collapse** this month in **Genoa** would affect a deal between Atlantia, whose subsidiary manages the **bridge**, and Spanish firm ACS. Atlantia and ACS ... 
+> 
+> [Operator of **collapsed** **bridge** in **Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (5)
+> 
+>> **GENOA** (REUTERS) - Italian toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in **Genoa** this week ... The company is under intense fire from **Italy**’s new anti-establishment government after the ... 
+> 
  ## trump calls omarosa a dog
 + #### MP-items 
 > [**Omarosa** fires back at **Trump**: ‘I do not answer to that of low-life or **dog**’](https://thegrio.com/2018/08/15/omarosa-responds-to-trump-dog-comment/) (7)
@@ -892,6 +1024,105 @@
 > 
 >> A quick note of protest to President Donald **Trump**, from my large and very ... Just this week, you described **Omarosa** Manigault Newman, a human female person who worked for you, as “that **dog**.” You also sent the following things on Twitter, which is ... 
 > 
+ ## kerala flooding
++ #### MP-items 
+> [India&#x27;s **Kerala** state hit by worst **flood** in a century](https://www.aljazeera.com/indepth/inpictures/india-kerala-state-devastated-worst-flood-century-180817141439797.html) (8)
+> 
+> `left-center bias` | `www.aljazeera.com` 
+>> Death toll from **floods** in southern state of **Kerala** jumps to hundreds, with more than 220,000 forced from their homes. Sun Aug 19 2018 08:30:28 GMT+0000 An elderly woman is rescued in a cooking utensil after her home was flooded in Thrissur, **Kerala** state ... 
+> 
+> [**Kerala**’s resilience shines through **floods**](https://gulfnews.com/opinion/editorials/kerala-s-resilience-shines-through-floods-1.2268273) (5)
+> 
+> `right-center bias` | `gulfnews.com` 
+>> The south Indian state of **Kerala**, reeling from the worst **flooding** in nearly a century, has shown remarkable resilience in battling the natural calamity. More than 350 people have been killed since the monsoon hit the state on May 29. But the toll would ... 
+> 
++ #### Old-items 
+> [With no Noah’s ark, **flood**-hit **Kerala** turns war zone, replete with refugee camps](http://www.newindianexpress.com/opinions/2018/aug/20/with-no-noahs-ark-flood-hit-kerala-turns-war-zone-replete-with-refugee-camps-1860010.html) (1)
+> 
+>> The scenes could well be from a war-torn area, replete with evacuations on a war-footing. As wars go, it may never catch the attention of the international community as a recent Syria or a distant Bosnia. But the damage is just as mind-numbing. The ongoing ... 
+> 
+> [Opinion  **Kerala** **floods**: An unprecedented tragedy foretold](https://www.livemint.com/Opinion/w3QBtwsVp5i0ZQrZ9PRqyK/Opinion--Kerala-floods-An-unprecedented-tragedy-foretold.html) (2)
+> 
+>> Last week, **Kerala** faced the brunt of an unprecedented **flood**, which has almost brought the state to a standstill. An anguished tweet put out by chief minister Pinarayi Vijayan summed up the crisis: “**Kerala** is facing its worst **flood** in 100 years. 
+> 
+> [**Kerala** athletes at Asiad fret over kin amid **flood** havoc](https://english.manoramaonline.com/in-depth/asian-games-2018/2018/08/20/kerala-athletes-asiad-fret-over-kin-flood-havoc.html) (3)
+> 
+>> Swimmer Sajan Prakash, who finished fifth in the 200 m butterfly event, is still awaiting some update on his family members but managed to break the national record nonetheless. New Delhi/Jakarta: The tragedy unfolding in the aftermath of the **Kerala** **floods** ... 
+> 
+> [**Kerala** **Floods**: Donate with a long-term vision](https://blogs.timesofindia.indiatimes.com/voices/kerala-floods-donate-with-a-long-term-vision/) (4)
+> 
+>> Lakshmi stood staring at the tiny worn out denim skirt in her hands, her pallid face betraying no emotion. The young mother was in a crumpled red and green saree she had been wearing since the day her house in Rudraprayag was washed away in the devastating ... 
+> 
+> [**Kerala**’s resilience shines through **floods**](https://gulfnews.com/opinion/editorials/kerala-s-resilience-shines-through-floods-1.2268273) (5)
+> 
+>> The south Indian state of **Kerala**, reeling from the worst **flooding** in nearly a century, has shown remarkable resilience in battling the natural calamity. More than 350 people have been killed since the monsoon hit the state on May 29. But the toll would ... 
+> 
+ ## kerala flood
++ #### MP-items 
+> [India&#x27;s **Kerala** state hit by worst **flood** in a century](https://www.aljazeera.com/indepth/inpictures/india-kerala-state-devastated-worst-flood-century-180817141439797.html) (8)
+> 
+> `left-center bias` | `www.aljazeera.com` 
+>> Death toll from **floods** in southern state of **Kerala** jumps to hundreds, with more than 220,000 forced from their homes. Sun Aug 19 2018 08:30:28 GMT+0000 An elderly woman is rescued in a cooking utensil after her home was flooded in Thrissur, **Kerala** state ... 
+> 
+> [**Kerala**’s resilience shines through **floods**](https://gulfnews.com/opinion/editorials/kerala-s-resilience-shines-through-floods-1.2268273) (5)
+> 
+> `right-center bias` | `gulfnews.com` 
+>> The south Indian state of **Kerala**, reeling from the worst flooding in nearly a century, has shown remarkable resilience in battling the natural calamity. More than 350 people have been killed since the monsoon hit the state on May 29. But the toll would ... 
+> 
++ #### Old-items 
+> [With no Noah’s ark, **flood**-hit **Kerala** turns war zone, replete with refugee camps](http://www.newindianexpress.com/opinions/2018/aug/20/with-no-noahs-ark-flood-hit-kerala-turns-war-zone-replete-with-refugee-camps-1860010.html) (1)
+> 
+>> The scenes could well be from a war-torn area, replete with evacuations on a war-footing. As wars go, it may never catch the attention of the international community as a recent Syria or a distant Bosnia. But the damage is just as mind-numbing. The ongoing ... 
+> 
+> [Opinion  **Kerala** **floods**: An unprecedented tragedy foretold](https://www.livemint.com/Opinion/w3QBtwsVp5i0ZQrZ9PRqyK/Opinion--Kerala-floods-An-unprecedented-tragedy-foretold.html) (2)
+> 
+>> Last week, **Kerala** faced the brunt of an unprecedented **flood**, which has almost brought the state to a standstill. An anguished tweet put out by chief minister Pinarayi Vijayan summed up the crisis: “**Kerala** is facing its worst **flood** in 100 years. 
+> 
+> [**Kerala** athletes at Asiad fret over kin amid **flood** havoc](https://english.manoramaonline.com/in-depth/asian-games-2018/2018/08/20/kerala-athletes-asiad-fret-over-kin-flood-havoc.html) (3)
+> 
+>> Swimmer Sajan Prakash, who finished fifth in the 200 m butterfly event, is still awaiting some update on his family members but managed to break the national record nonetheless. New Delhi/Jakarta: The tragedy unfolding in the aftermath of the **Kerala** **floods** ... 
+> 
+> [**Kerala** **Floods**: Donate with a long-term vision](https://blogs.timesofindia.indiatimes.com/voices/kerala-floods-donate-with-a-long-term-vision/) (4)
+> 
+>> Lakshmi stood staring at the tiny worn out denim skirt in her hands, her pallid face betraying no emotion. The young mother was in a crumpled red and green saree she had been wearing since the day her house in Rudraprayag was washed away in the devastating ... 
+> 
+> [**Kerala**’s resilience shines through **floods**](https://gulfnews.com/opinion/editorials/kerala-s-resilience-shines-through-floods-1.2268273) (5)
+> 
+>> The south Indian state of **Kerala**, reeling from the worst flooding in nearly a century, has shown remarkable resilience in battling the natural calamity. More than 350 people have been killed since the monsoon hit the state on May 29. But the toll would ... 
+> 
+ ## omarosa manigault newman
++ #### MP-items 
+> [Firings of the F.B.I. Agent and the Trump Aide](https://www.nytimes.com/2018/08/14/opinion/letters/trump-strzok-manigault-newman.html) (2)
+> 
+> `left-center bias` | `www.nytimes.com` 
+>> The concern regarding the breach of security protocols by **Omarosa Manigault Newman**, who secretly taped John F. Kelly when he fired her, is justified but misses an important aspect of the story. Mr. Kelly called Ms. **Manigault** **Newman** into the Situation Room ... 
+> 
+> [Letters: Peter Strzok, **Omarosa Manigault Newman**, transgender student, Lupe Valdez, farm bill](https://www.dallasnews.com/opinion/letters-to-the-editor/2018/08/15/letters-peterstrzokomarosa-manigault-newman-transgender-student-lupe-valdez-farm-bill) (1)
+> 
+> `right-center bias` | `www.dallasnews.com` 
+>> Re: &quot;Agent fired over anti-Trump texts — President, allies had tied messages to &#x27;witch hunt&#x27; probe,&quot; Tuesday news story. The article claims that Peter Strzok was fired due to his anti-Donald Trump texts. A true justice system must be unbiased and must ... 
+> 
++ #### Old-items 
+> [Letters: Peter Strzok, **Omarosa Manigault Newman**, transgender student, Lupe Valdez, farm bill](https://www.dallasnews.com/opinion/letters-to-the-editor/2018/08/15/letters-peterstrzokomarosa-manigault-newman-transgender-student-lupe-valdez-farm-bill) (1)
+> 
+>> Re: &quot;Agent fired over anti-Trump texts — President, allies had tied messages to &#x27;witch hunt&#x27; probe,&quot; Tuesday news story. The article claims that Peter Strzok was fired due to his anti-Donald Trump texts. A true justice system must be unbiased and must ... 
+> 
+> [Firings of the F.B.I. Agent and the Trump Aide](https://www.nytimes.com/2018/08/14/opinion/letters/trump-strzok-manigault-newman.html) (2)
+> 
+>> The concern regarding the breach of security protocols by **Omarosa Manigault Newman**, who secretly taped John F. Kelly when he fired her, is justified but misses an important aspect of the story. Mr. Kelly called Ms. **Manigault** **Newman** into the Situation Room ... 
+> 
+> [I read six sycophantic pro-Trump books - and then I read **Omarosa**  Book Review](https://www.pennlive.com/opinion/2018/08/i_read_six_sycophantic_pro-tru.html) (3)
+> 
+>> But when a believer is suddenly cast out of Trump World or realizes that continued fealty offers nothing, as in **Omarosa Manigault Newman**&#x27;s book, &quot;Unhinged,&quot; then the line between devotion and disdain can become vanishingly thin - both inside the White ... 
+> 
+> [Calling **Omarosa Manigault Newman** a &#x27;dog&#x27; is sexist and racist, period](https://www.msn.com/en-us/news/opinion/calling-omarosa-manigault-newman-a-dog-is-sexist-and-racist-period/ar-BBLVrxn) (4)
+> 
+>> Editor’s note: The opinions in this article are the author’s, as published by our content partner, and do not necessarily represent the views of MSN or Microsoft. President Donald Trump on Tuesday referred to former White House staffer **Omarosa** ... 
+> 
+> [Wayward behavior of Trump, Manafort subordinates becoming a pattern](https://www.reviewjournal.com/opinion/opinion-columns/debra-saunders/wayward-behavior-of-trump-manafort-subordinates-becoming-a-pattern/) (5)
+> 
+>> WASHINGTON — Rick Gates is to political consultant Paul Manafort what **Omarosa Manigault Newman** is to President Donald Trump. Gates is the 46-year-old former right-hand man to Manafort, who, in exchange for a lesser sentence, testified against his former ... 
+> 
  ## new mexico compound
 + #### MP-items 
 > [Editorial: Pre-trial detention on trial – again](https://www.abqjournal.com/1210677/editorial-pre-trial-detention-on-trial-again.html) (5)
@@ -930,6 +1161,303 @@
 > 
 >> Radio and television reporting and commentary were certainly focused on something between Aug. 3 and Aug. 10, but it wasn’t a **compound** in **New** **Mexico**, according to subject-specific mentions compiled by TVEyes: You’d think that a **compound** training 11 ... 
 > 
+ ## florida stand your ground shooting
++ #### MP-items 
+> [NRA must push to change law that frequently &#x27;works against people of color&#x27;: Today&#x27;s talker](https://www.usatoday.com/story/opinion/2018/08/14/nra-stand-your-ground-markeis-mcglockton-michael-drejka/987807002/) (3)
+> 
+> `least biased` | `www.usatoday.com` 
+>> If you still doubt that **stand** **your** **ground** has its problems, take the recent **shooting** out of Clearwater that has **Florida** and its controversial self-defense statute back in the spotlight. The tragedy began with an argument between Michael Drejka and Markeis ... 
+> 
+> [Editorial: Why **stand** **your** **ground** has to go](https://www.tampabay.com/opinion/editorials/Editorial-Why-stand-your-ground-has-to-go_170855528) (1)
+> 
+> `left-center bias` | `www.tampabay.com` 
+>> The **shooting**, which erupted over use of a handicap parking ... But prosecutors still will have a high hurdle to overcome in showing that Drejka is not immune under **Florida**’s **stand** **your** **ground** law, which leaves too much chance for unwarranted killings ... 
+> 
++ #### Old-items 
+> [Editorial: Why **stand** **your** **ground** has to go](https://www.tampabay.com/opinion/editorials/Editorial-Why-stand-your-ground-has-to-go_170855528) (1)
+> 
+>> The **shooting**, which erupted over use of a handicap parking ... But prosecutors still will have a high hurdle to overcome in showing that Drejka is not immune under **Florida**’s **stand** **your** **ground** law, which leaves too much chance for unwarranted killings ... 
+> 
+> [What Others Say: Badly written **stand**-**your**-**ground** laws sow law enforcement confusion](http://www.onlineathens.com/opinion/20180809/what-others-say-badly-written-stand-your-ground-laws-sow-law-enforcement-confusion) (2)
+> 
+>> Hammer helped shepherd **Florida**’s landmark **stand**-**your**-**ground** bills into law, inspiring Missouri and other states to follow suit. Overly liberalized **stand**-**your**-**ground** statutes serve as an invitation for people to grab their guns and start **shooting** at the ... 
+> 
+> [NRA must push to change law that frequently &#x27;works against people of color&#x27;: Today&#x27;s talker](https://www.usatoday.com/story/opinion/2018/08/14/nra-stand-your-ground-markeis-mcglockton-michael-drejka/987807002/) (3)
+> 
+>> If you still doubt that **stand** **your** **ground** has its problems, take the recent **shooting** out of Clearwater that has **Florida** and its controversial self-defense statute back in the spotlight. The tragedy began with an argument between Michael Drejka and Markeis ... 
+> 
+> [**Florida** editorial roundup](http://www.chicagotribune.com/news/sns-bc-fl--editorial-rdp-20180815-story.html) (4)
+> 
+>> The **shooting**, which erupted over use of a handicap parking ... But prosecutors still will have a high hurdle to overcome in showing that Drejka is not immune under **Florida**&#x27;s **stand** **your** **ground** law, which leaves too much chance for unwarranted killings ... 
+> 
+> [Who determines guilt?](https://www.fredericknewspost.com/opinion/letter_to_editor/who-determines-guilt/article_11672a63-dc28-5695-b3c8-ff67b6f45c34.html) (5)
+> 
+>> Regarding the article “Father blames ‘**stand** **your** **ground**’ in son’s death,” the article explains that Dennis Baxley, a Republican legislator from Ocala, **Florida**, and an initial sponsor of the bill, called the **shooting** of an unarmed black man a ... 
+> 
+ ## ohio state football scandal
++ #### MP-items 
+> [Sapakoff: Durkin and Meyer, Muschamp&#x27;s reaction and safer **football**](https://www.postandcourier.com/columnists/sapakoff-durkin-and-meyer-muschamp-s-reaction-and-safer-football/article_c91f368c-9f0c-11e8-9caf-a752ff5ff9fb.html) (3)
+> 
+> `least biased` | `www.postandcourier.com` 
+>> Keep in mind that while **Ohio** **State** head coach Urban Meyer and Maryland ... to Liberty last season in the shadow of a sexual assault **scandal**. As old as leather helmets, separate rules for **football** teams and the rest of a campus have consistently applied. 
+> 
+> [Could Bob Stoops replace Urban Meyer at **Ohio** **State**?](https://www.msn.com/en-us/sports/ncaafb/could-bob-stoops-replace-urban-meyer-at-ohio-state/ar-BBLq2z3) (1)
+> 
+> `left-center bias` | `www.msn.com` 
+>> Unlike most of college **football**’s bluebloods, **Ohio** **State** has managed for the last half-century to ... the current drama echoes the sudden collapse of Tressel’s tenure amidst an NCAA **scandal** in May of 2011. As the Buckeyes played that season under ... 
+> 
++ #### Old-items 
+> [Could Bob Stoops replace Urban Meyer at **Ohio** **State**?](https://www.msn.com/en-us/sports/ncaafb/could-bob-stoops-replace-urban-meyer-at-ohio-state/ar-BBLq2z3) (1)
+> 
+>> Unlike most of college **football**’s bluebloods, **Ohio** **State** has managed for the last half-century to ... the current drama echoes the sudden collapse of Tressel’s tenure amidst an NCAA **scandal** in May of 2011. As the Buckeyes played that season under ... 
+> 
+> [EDITORIAL: Can **Ohio** **State**&#x27;s Urban Meyer survive allegations?](https://www.chillicothegazette.com/story/opinion/editorials/2018/08/03/editorial-can-ohio-states-urban-meyer-survive-allegations/889572002/) (2)
+> 
+>> **Ohio** **State** fans have to be wondering if that&#x27;s the path the athletic department is traveling after the last month&#x27;s worth of revelations regarding **football** coach Urban Meyer ... because dubbed &quot;Tattoogate,&quot; a **scandal** that eventually resulted in then ... 
+> 
+> [Sapakoff: Durkin and Meyer, Muschamp&#x27;s reaction and safer **football**](https://www.postandcourier.com/columnists/sapakoff-durkin-and-meyer-muschamp-s-reaction-and-safer-football/article_c91f368c-9f0c-11e8-9caf-a752ff5ff9fb.html) (3)
+> 
+>> Keep in mind that while **Ohio** **State** head coach Urban Meyer and Maryland ... to Liberty last season in the shadow of a sexual assault **scandal**. As old as leather helmets, separate rules for **football** teams and the rest of a campus have consistently applied. 
+> 
+> [When scandals hit college programs, loyalty gets twisted](https://www.expressnews.com/sports/columnists/mike_finger/article/When-scandals-hit-college-programs-loyalty-gets-13153500.php) (4)
+> 
+>> We don’t know yet whether Urban Meyer let **Ohio** ... **State** investigates. And to be fair, the modest group of 200 people who rallied outside the Buckeyes’ home stadium to support Meyer last week does not represent an entire fan base. RELATED: Judson ... 
+> 
+> [Mark L. Hopkins: It is happening again in college **football**](http://www.vvdailypress.com/opinion/20180815/mark-l-hopkins-it-is-happening-again-in-college-football) (5)
+> 
+>> The current headlines are about Urban Meyer, three-time national champion **football** coach, at **Ohio** **State**. A few years back it was Penn ... or complicit in either **scandal**. Had the coach gone to the police with the information told to him by someone else ... 
+> 
+ ## dj durkin
++ #### MP-items 
+> [Sapakoff: **Durkin** and Meyer, Muschamp&#x27;s reaction and safer football](https://www.postandcourier.com/columnists/sapakoff-durkin-and-meyer-muschamp-s-reaction-and-safer-football/article_c91f368c-9f0c-11e8-9caf-a752ff5ff9fb.html) (2)
+> 
+> `least biased` | `www.postandcourier.com` 
+>> Keep in mind that while Ohio State head coach Urban Meyer and Maryland head coach **DJ Durkin** are on administrative leave, there is a lot of “allegedly” — a critical word in American justice — involved in domestic abuse accusations against fired ... 
+> 
+> [Urban Meyer, **DJ Durkin** have failed as football coaches and human beings](http://www.msn.com/en-us/news/msn/urban-meyer-dj-durkin-have-failed-as-football-coaches-and-human-beings/ar-BBLYVf4) (1)
+> 
+> `left-center bias` | `www.msn.com` 
+>> As college football season approaches, Urban Meyer and **D.J**. **Durkin** are dangling by a thread. One coach far more famous than the other, both irreparably weakened, they are destined to be viewed more as villain than hero as time passes, the power and ... 
+> 
++ #### Old-items 
+> [Urban Meyer, **DJ Durkin** have failed as football coaches and human beings](http://www.msn.com/en-us/news/msn/urban-meyer-dj-durkin-have-failed-as-football-coaches-and-human-beings/ar-BBLYVf4) (1)
+> 
+>> As college football season approaches, Urban Meyer and **D.J**. **Durkin** are dangling by a thread. One coach far more famous than the other, both irreparably weakened, they are destined to be viewed more as villain than hero as time passes, the power and ... 
+> 
+> [Sapakoff: **Durkin** and Meyer, Muschamp&#x27;s reaction and safer football](https://www.postandcourier.com/columnists/sapakoff-durkin-and-meyer-muschamp-s-reaction-and-safer-football/article_c91f368c-9f0c-11e8-9caf-a752ff5ff9fb.html) (2)
+> 
+>> Keep in mind that while Ohio State head coach Urban Meyer and Maryland head coach **DJ Durkin** are on administrative leave, there is a lot of “allegedly” — a critical word in American justice — involved in domestic abuse accusations against fired ... 
+> 
+> [Revisiting Maryland&#x27;s Decision to Pass on Frank Reich](https://247sports.com/college/maryland/Article/Maryland-Coach-Runner-Up-Frank-Reich-No-Opinion-on-DJ-Durkin-120807476/) (3)
+> 
+>> Reich was on the short list of finalists for his alma mater’s head coaching position in 2015 after Randy Edsall was fired, but he was eventually passed over in favor of then-Michigan defensive coordinator **DJ Durkin**. That former Maryland athletic director ... 
+> 
+> [SPORTS MEDICINE: ESPN reports shed light on Maryland player&#x27;s death from heatstroke](https://www.nwitimes.com/sports/columnists/john-doherty/sports-medicine-espn-reports-shed-light-on-maryland-player-s/article_bd1eed64-1d38-54d5-b618-99ebdae76bef.html) (4)
+> 
+>> Yet, Court continued in his position until Saturday morning. On Saturday afternoon, with the outcry continuing, head football coach **DJ Durkin** was placed on leave. Maryland athletic director Damon Evans, in a letter to Terrapins fans, admitted the reason ... 
+> 
+> [Jags&#x27; motormouth Jalen Ramsey got what he was after: attention](https://pilotonline.com/sports/columnist/bob-molinaro/article_99662194-a164-11e8-9736-7f0173e041ee.html) (5)
+> 
+>> Ah, but the team’s owner is an eccentric loudmouth. We get it. Can’t survive: The official announcement of **DJ Durkin**’s dismissal as Maryland’s head football coach will be a mere formality. He’s done. Idle thought: Playoffs be damned, if the Red ... 
+> 
+ ## manafort trial prosecution rests
++ #### MP-items 
+> [**Prosecutor**: Stephen Calk, Chicago banker in **Manafort** **trial**, is ‘co-conspirator’](http://www.msn.com/en-us/news/msn/prosecutor-stephen-calk-chicago-banker-in-manafort-trial-is-%e2%80%98co-conspirator%e2%80%99/ar-BBLPJ2G) (1)
+> 
+> `left-center bias` | `www.msn.com` 
+>> Outside the earshot of the **Manafort** jury and the **rest** of those attending the **trial**, a federal **prosecutor** on Friday also told the judge hearing the case the banker, Stephen Calk, could face unspecified “criminal liability.” It’s unclear whether that ... 
+> 
+> [**Manafort** **trial** highlights Trump’s bad choices — analysis](https://www.reviewjournal.com/opinion/opinion-columns/debra-saunders/manafort-trial-highlights-trumps-bad-choices-analysis/) (3)
+> 
+> `right-center bias` | `www.reviewjournal.com` 
+>> At the same time, he ruled that Special Counsel Robert Mueller’s **prosecution** of former Trump campaign chairman Paul **Manafort** was legitimate and should continue. Ellis, who is presiding over **Manafort**’s **trial** in Alexandria, Virginia, was acutely aware ... 
+> 
++ #### Old-items 
+> [**Prosecutor**: Stephen Calk, Chicago banker in **Manafort** **trial**, is ‘co-conspirator’](http://www.msn.com/en-us/news/msn/prosecutor-stephen-calk-chicago-banker-in-manafort-trial-is-%e2%80%98co-conspirator%e2%80%99/ar-BBLPJ2G) (1)
+> 
+>> Outside the earshot of the **Manafort** jury and the **rest** of those attending the **trial**, a federal **prosecutor** on Friday also told the judge hearing the case the banker, Stephen Calk, could face unspecified “criminal liability.” It’s unclear whether that ... 
+> 
+> [The extraordinary bias of the judge in the **Manafort** **trial**](https://www.washingtonpost.com/opinions/the-extraordinary-bias-of-the-judge-in-the-manafort-trial/2018/08/16/aca48040-a16c-11e8-83d2-70203b8d7b44_story.html) (2)
+> 
+>> ... Judge T.S. Ellis III in the **trial** of Paul **Manafort** on bank fraud and tax evasion charges has been decidedly unusual. During the **trial**, Ellis intervened regularly, and mainly against one side: the **prosecution**. The judge&#x27;s interruptions occurred in the ... 
+> 
+> [**Manafort** **trial** highlights Trump’s bad choices — analysis](https://www.reviewjournal.com/opinion/opinion-columns/debra-saunders/manafort-trial-highlights-trumps-bad-choices-analysis/) (3)
+> 
+>> At the same time, he ruled that Special Counsel Robert Mueller’s **prosecution** of former Trump campaign chairman Paul **Manafort** was legitimate and should continue. Ellis, who is presiding over **Manafort**’s **trial** in Alexandria, Virginia, was acutely aware ... 
+> 
+> [Facebook feedback August 15: Shaun Brown, Hampton academies, **Manafort** **trial**](http://www.dailypress.com/news/opinion/feedback/dp-nws-feedback-0815-story.html) (4)
+> 
+>> Looks like a great option for gifted and high-performing students who are focused on preparing for college. Defense **rests** in **Manafort** **trial** without presenting witnesses Paul **Manafort**’s lawyers rested their case Tuesday without putting him or any other ... 
+> 
+> [ROBINSON: The table is set for Democrats to take the House](http://www.gwinnettdailypost.com/opinion/columnists/robinson-the-table-is-set-for-democrats-to-take-the/article_ad2efed4-aaab-5f79-8f8a-755be440b1fa.html) (5)
+> 
+>> The onetime chairman of Trump’s presidential campaign, Paul **Manafort**, is on **trial** in federal court for tax fraud and other alleged crimes. The **prosecution**’s star witness in that **trial** is Rick Gates, the deputy chairman of Trump’s inaugural committee. 
+> 
+ ## italy bridge collapse
++ #### MP-items 
+> [The Irish Times view on the Genoa **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (1)
+> 
+> `left-center bias` | `www.irishtimes.com` 
+>> The horrifying **collapse** of the Morandi **bridge** in Genoa, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+> [Operator of **collapsed** **bridge** in **Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (3)
+> 
+> `right-center bias` | `www.straitstimes.com` 
+>> GENOA (REUTERS) - Italian toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in Genoa this week killing at least 40 people, but its chief executive stopped short of apologising for the disaster. 
+> 
++ #### Old-items 
+> [The Irish Times view on the Genoa **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (1)
+> 
+>> The horrifying **collapse** of the Morandi **bridge** in Genoa, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+> [Spanish government declines to comment on any impact of Genoa **bridge** disaster on deal to buy Abertis](https://uk.reuters.com/article/uk-italy-motorway-collapse-spain/spanish-government-declines-to-comment-on-any-impact-of-genoa-bridge-disaster-on-deal-to-buy-abertis-idUKKCN1L51RE?feedType=RSS&feedName=worldNews) (2)
+> 
+>> MADRID (Reuters) - Spain’s Public Works Ministry declined to comment on Monday on whether a motorway **bridge** **collapse** this month in Genoa would affect a deal between Atlantia, whose subsidiary manages the **bridge**, and Spanish firm ACS. Atlantia and ACS ... 
+> 
+> [Operator of **collapsed** **bridge** in **Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (3)
+> 
+>> GENOA (REUTERS) - Italian toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in Genoa this week killing at least 40 people, but its chief executive stopped short of apologising for the disaster. 
+> 
+> [The Genoa **bridge** **collapse** is **Italy**’s Grenfell – and the government is too busy scapegoating migrants to get to the bottom of why it happened](https://www.independent.co.uk/voices/genoa-bridge-collapse-morandi-bridge-autostrade-per-litalia-five-star-movement-league-a8493201.html) (4)
+> 
+>> The Genoa **bridge** disaster which has so far taken 39 lives is a tragedy that could have been avoided. However, while politicians and contractors rush to point the finger of blame at anyone but themselves, it is becoming increasingly clear that the real ... 
+> 
+> [A **bridge** **collapsed** in **Italy** -- and a reminder of a promise Trump hasn&#x27;t kept yet](https://www.washingtonexaminer.com/opinion/a-bridge-collapsed-in-italy-and-a-reminder-of-a-promise-trump-hasnt-kept-yet) (5)
+> 
+>> The latest pictures of the devastating consequences of poorly maintained infrastructure come from Genoa, **Italy**. A **bridge** there **collapsed** on Tuesday, sending cars hurtling nearly 150 feet towards the ground below and leaving 37 dead. The United States ... 
+> 
+ ## bridge collapse italy
++ #### MP-items 
+> [The Irish Times view on the Genoa **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (1)
+> 
+> `left-center bias` | `www.irishtimes.com` 
+>> The horrifying **collapse** of the Morandi **bridge** in Genoa, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+> [Operator of **collapsed** **bridge** in **Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (2)
+> 
+> `right-center bias` | `www.straitstimes.com` 
+>> GENOA (REUTERS) - Italian toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in Genoa this week killing at least 40 people, but its chief executive stopped short of apologising for the disaster. 
+> 
++ #### Old-items 
+> [The Irish Times view on the Genoa **bridge** **collapse**: lessons for **Italy** and for Europe](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-the-genoa-bridge-collapse-lessons-for-italy-and-for-europe-1.3599629) (1)
+> 
+>> The horrifying **collapse** of the Morandi **bridge** in Genoa, resulting in 39 deaths, has presented **Italy**’s populist government with its first major test and raised important questions about infrastructural spending that governments across Europe must confront. 
+> 
+> [Operator of **collapsed** **bridge** in **Italy** vows to rebuild it but stops short of apology](https://www.straitstimes.com/world/europe/operator-of-collapsed-bridge-in-italy-voices-sadness-sets-up-fund-for-victims) (2)
+> 
+>> GENOA (REUTERS) - Italian toll-road operator Autostrade per l’Italia pledged on Saturday (Aug 18) to rebuild a **bridge** that **collapsed** in Genoa this week killing at least 40 people, but its chief executive stopped short of apologising for the disaster. 
+> 
+> [Spanish government declines to comment on any impact of Genoa **bridge** disaster on deal to buy Abertis](https://uk.reuters.com/article/uk-italy-motorway-collapse-spain/spanish-government-declines-to-comment-on-any-impact-of-genoa-bridge-disaster-on-deal-to-buy-abertis-idUKKCN1L51RE?feedType=RSS&feedName=worldNews) (3)
+> 
+>> MADRID (Reuters) - Spain’s Public Works Ministry declined to comment on Monday on whether a motorway **bridge** **collapse** this month in Genoa would affect a deal between Atlantia, whose subsidiary manages the **bridge**, and Spanish firm ACS. Atlantia and ACS ... 
+> 
+> [The Genoa **bridge** **collapse** is **Italy**’s Grenfell – and the government is too busy scapegoating migrants to get to the bottom of why it happened](https://www.independent.co.uk/voices/genoa-bridge-collapse-morandi-bridge-autostrade-per-litalia-five-star-movement-league-a8493201.html) (4)
+> 
+>> The Genoa **bridge** disaster which has so far taken 39 lives is a tragedy that could have been avoided. However, while politicians and contractors rush to point the finger of blame at anyone but themselves, it is becoming increasingly clear that the real ... 
+> 
+> [A **bridge** **collapsed** in **Italy** -- and a reminder of a promise Trump hasn&#x27;t kept yet](https://www.washingtonexaminer.com/opinion/a-bridge-collapsed-in-italy-and-a-reminder-of-a-promise-trump-hasnt-kept-yet) (5)
+> 
+>> The latest pictures of the devastating consequences of poorly maintained infrastructure come from Genoa, **Italy**. A **bridge** there **collapsed** on Tuesday, sending cars hurtling nearly 150 feet towards the ground below and leaving 37 dead. The United States ... 
+> 
+ ## seahawks game today
++ #### MP-items 
+> [NFL players show they won&#x27;t acquiesce to league, President Trump on protests](http://www.msn.com/en-us/news/msn/nfl-players-show-they-wont-acquiesce-to-league-president-trump-on-protests/ar-BBLLuws) (3)
+> 
+> `left-center bias` | `www.msn.com` 
+>> One thing that was clear with the first full slate of preseason **games**: The protest movement in the NFL still ... the statement that the four Jaguars and three Seattle **Seahawks** players made by staying in the locker room represented a new twist in this ... 
+> 
+> [Burned horse trainer Martine Bellocq teaches powerful lessons about life](http://www.sandiegouniontribune.com/sports/columnists/bryce-miller/sd-sp-miller-bellocq-20180819-story.html) (2)
+> 
+> `right-center bias` | `www.sandiegouniontribune.com` 
+>> Bellocq, in a wheelchair with surgeries awaiting one eyelid, her chin and lips, decided to join the **game** ... **Today** wonders if SDSU can match recent rushing success while ranking Aztecs in preseason top 25 poll. Aztecs star Rashaad Penny goes to Seattle ... 
+> 
++ #### Old-items 
+> [Commentary: The best reminder of how lucky we’ve had it in Seattle is when they say goodbye](https://q13fox.com/2018/08/12/commentary-the-best-reminder-of-how-lucky-weve-had-it-in-seattle-is-when-they-say-goodbye/) (1)
+> 
+>> Earlier **today**, I was simultaneously fixated on two legends ... Because I’d give anything right now to see another bone-crushing hit by Chancellor to set the tone of a **Seahawks** **game**… or a quality start by Felix, giving the King’s Court extra pleasure ... 
+> 
+> [Burned horse trainer Martine Bellocq teaches powerful lessons about life](http://www.sandiegouniontribune.com/sports/columnists/bryce-miller/sd-sp-miller-bellocq-20180819-story.html) (2)
+> 
+>> Bellocq, in a wheelchair with surgeries awaiting one eyelid, her chin and lips, decided to join the **game** ... **Today** wonders if SDSU can match recent rushing success while ranking Aztecs in preseason top 25 poll. Aztecs star Rashaad Penny goes to Seattle ... 
+> 
+> [NFL players show they won&#x27;t acquiesce to league, President Trump on protests](http://www.msn.com/en-us/news/msn/nfl-players-show-they-wont-acquiesce-to-league-president-trump-on-protests/ar-BBLLuws) (3)
+> 
+>> One thing that was clear with the first full slate of preseason **games**: The protest movement in the NFL still ... the statement that the four Jaguars and three Seattle **Seahawks** players made by staying in the locker room represented a new twist in this ... 
+> 
+> [Dallas Cowboys could find a new competitive edge in yoga](https://www.dallasnews.com/opinion/commentary/2018/08/14/dallas-cowboys-could-find-new-competitive-edge-yoga) (4)
+> 
+>> The Seattle **Seahawks**, New England Patriots ... Mind agitation is particularly acute for this generation of young athletes. There is the **game** inside the lines to be managed and played at a high level of skill and performance, and then an unprecedented ... 
+> 
+> [If the NFL actually wants to be safer, it&#x27;s time to reevaluate tackling  David Murphy](http://www.philly.com/philly/columnists/david_murphy/nfl-tackle-rule-changes-safety-eagles-20180813.html) (5)
+> 
+>> David Murphy is a sports columnist for the Daily **News** and Inquirer. He joined the company in 2008 ... If the NFL is serious about its desire to make the **game** safer, then limiting its focus to plays on which a player makes contact with his helmet is far ... 
+> 
+ ## turkey currency crisis
++ #### MP-items 
+> [**Turkey**&#x27;s **currency** **crisis** ripples out far and wide](https://www.afr.com/opinion/editorials/turkeys-currency-crisis-ripples-out-far-and-wide-20180813-h13wcg) (3)
+> 
+> `least biased` | `www.afr.com` 
+>> As befits the ancient strategic crossroads between east and west, **Turkey**&#x27;s **crisis** is happening on so many different levels. It is an emerging markets **currency** meltdown that could spread to other vulnerable economies. Its debts could put Europe&#x27;s banks at ... 
+> 
+> [The Guardian view on **Turkey**’s **currency** **crisis**: it was made at home](http://www.msn.com/en-gb/news/msn/the-guardian-view-on-turkey%e2%80%99s-currency-crisis-it-was-made-at-home/ar-BBLT5Px) (2)
+> 
+> `left-center bias` | `www.msn.com` 
+>> President Erdoğan won elections on the back of an economy that was boosted by cheap credit. Now the bills are coming due and no provision has been made to pay them This is an emergency in the real economy: **Turkey** is almost wholly reliant on crude oil ... 
+> 
++ #### Old-items 
+> [**Turkey**&#x27;s **currency** collapse shows just how vulnerable its economy is to a **crisis**](https://www.idahopress.com/opinion/conversation/turkey-s-currency-collapse-shows-just-how-vulnerable-its-economy/article_a384af75-6b90-50df-91f7-fa0d1ba7e2ff.html) (1)
+> 
+>> (THE CONVERSATION) If you happen to be a tourist in **Turkey** right now, consider yourself lucky. Otherwise, things look grim. **Turkey**’s real economic troubles, however, go much deeper than the current spat with the U.S. and extend back many years. 
+> 
+> [The Guardian view on **Turkey**’s **currency** **crisis**: it was made at home](http://www.msn.com/en-gb/news/msn/the-guardian-view-on-turkey%e2%80%99s-currency-crisis-it-was-made-at-home/ar-BBLT5Px) (2)
+> 
+>> President Erdoğan won elections on the back of an economy that was boosted by cheap credit. Now the bills are coming due and no provision has been made to pay them This is an emergency in the real economy: **Turkey** is almost wholly reliant on crude oil ... 
+> 
+> [**Turkey**&#x27;s **currency** **crisis** ripples out far and wide](https://www.afr.com/opinion/editorials/turkeys-currency-crisis-ripples-out-far-and-wide-20180813-h13wcg) (3)
+> 
+>> As befits the ancient strategic crossroads between east and west, **Turkey**&#x27;s **crisis** is happening on so many different levels. It is an emerging markets **currency** meltdown that could spread to other vulnerable economies. Its debts could put Europe&#x27;s banks at ... 
+> 
+> [MAGGIE PAGANO: The **currency** **crisis** alarm bell rings as the **Turkish** lira continues to free-fall](http://www.thisismoney.co.uk/money/comment/article-6056485/MAGGIE-PAGANO-currency-crisis-alarm-bell-rings-Turkish-lira-continues-free-fall.html) (4)
+> 
+>> **Turkey**&#x27;s **currency** is still in free-fall. The lira has fallen by one-fifth against the dollar and, despite intervention by the **Turkish** government yesterday, slumped to its lowest level against sterling on fears of contagion. Like most **currency** **crises**, this ... 
+> 
+> [The Irish Times view on **Turkey**’s financial **crisis**: a falling lira exposes Erdogan](https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-turkey-s-financial-crisis-a-falling-lira-exposes-erdogan-1.3594950) (5)
+> 
+>> European banks exposed to **Turkey**’s **currency** **crisis** **Turkey**’s economic **crisis**: warning lights are flashing **Turkish** lira **crisis** and Brexit uncertainty shake investor confidence Instead of taking steps to restore confidence, Erdogan, who dismissed the fall ... 
+> 
+ ## espn little league world series
++ #### MP-items 
+> [Jags&#x27; motormouth Jalen Ramsey got what he was after: attention](https://pilotonline.com/sports/columnist/bob-molinaro/article_99662194-a164-11e8-9736-7f0173e041ee.html) (4)
+> 
+> `left-center bias` | `pilotonline.com` 
+>> 700 clip, Boston should be waved on through to the **World** **Series**. A Fall Classic without the Red Sox we ... His 7-7 record, meanwhile, means very **little** by today’s analytics, so deGrom’s on the short list of Cy Young Award candidates. 
+> 
+> [Grandview All-Star team takes east side pride to **Little** **League** **World** **Series**](https://www.desmoinesregister.com/story/news/local/columnists/daniel-finney/2018/08/14/grandview-little-league-world-series-midwest-des-moines-iowa-baseball-youth-sport-eastside-east-side/974915002/) (1)
+> 
+> `right-center bias` | `www.desmoinesregister.com` 
+>> Grandview All-Star team takes east side pride to **Little** **League** **World** **Series** East Des Moines kids are learning how to fold the bills of their caps like Japanese players and doing interviews with **ESPN** Check out this story on desmoinesregister.com ... 
+> 
++ #### Old-items 
+> [Grandview All-Star team takes east side pride to **Little** **League** **World** **Series**](https://www.desmoinesregister.com/story/news/local/columnists/daniel-finney/2018/08/14/grandview-little-league-world-series-midwest-des-moines-iowa-baseball-youth-sport-eastside-east-side/974915002/) (1)
+> 
+>> Grandview All-Star team takes east side pride to **Little** **League** **World** **Series** East Des Moines kids are learning how to fold the bills of their caps like Japanese players and doing interviews with **ESPN** Check out this story on desmoinesregister.com ... 
+> 
+> [Creech: Post Oak **Little** **League** embarks on trip of a lifetime](https://www.houstonchronicle.com/sports/columnists/dialcreech/article/Creech-Post-Oak-Little-League-embarks-on-the-13149178.php) (2)
+> 
+>> where they will compete in the **Little** **League** **World** **Series**. It&#x27;s been a whirlwind of a week that started ... an outfielder made a diving catch and his teammates started humming the **ESPN** highlight theme. A moment later, an infielder leapt to stop a line ... 
+> 
+> [Our view: Tunkhannock team gave us something to be proud of](https://www.timesleader.com/opinion/editorials/715262/our-view-tunkhannock-team-gave-us-something-to-be-proud-of) (3)
+> 
+>> They came tantalizing close to winning the **Little** **League** Softball **World** **Series** in Portland, Ore ... At local watering holes throughout the region televisions were tuned into **ESPN** to watch their games. Their extra-inning, quarterfinal win over the Asia ... 
+> 
+> [Jags&#x27; motormouth Jalen Ramsey got what he was after: attention](https://pilotonline.com/sports/columnist/bob-molinaro/article_99662194-a164-11e8-9736-7f0173e041ee.html) (4)
+> 
+>> 700 clip, Boston should be waved on through to the **World** **Series**. A Fall Classic without the Red Sox we ... His 7-7 record, meanwhile, means very **little** by today’s analytics, so deGrom’s on the short list of Cy Young Award candidates. 
+> 
+> [Maybe we’re lookin’ at the wrong Cowboys](https://www.ktvb.com/article/opinion/columnists/scott-slant/maybe-were-lookin-at-the-wrong-cowboys/277-577632510) (5)
+> 
+>> “We were kind of overshadowed by Josh (Allen) a **little** last ... be named 2014 Minor **League** Player of the Year, 2015 National **League** Rookie of the Year and 2016 NL Most Valuable Player while leading the Cubs to their first **World** **Series** title in 108 ... 
+> 
  ## omarosa book
 + #### MP-items 
 > [Kimmel examines Trump&#x27;s vocabulary in light of **Omarosa**&#x27;s tell-all **book**](https://www.usatoday.com/story/opinion/2018/08/15/jimmy-kimmel-donald-trump-omarosa-punchlines/997493002/) (3)
@@ -967,4 +1495,79 @@
 > [Welcome to the Resistance, **Omarosa**](https://www.nytimes.com/2018/08/13/opinion/columnists/omarosa-unhinged-book-trump-cult.html) (5)
 > 
 >> **Omarosa** Manigault Newman, the reality show villain who campaigned ... Naturally, Manigault Newman’s new **book**, “Unhinged: An Insider’s Account of the Trump White House,” is self-serving, a way to avenge her 2017 firing and make money telling us ... 
+> 
+ ## carr fire
++ #### MP-items 
+> [From the Editor: Our new constant companion](https://napavalleyregister.com/opinion/columnists/from-the-editor-our-new-constant-companion/article_051a2429-423f-5c83-87a0-911d216cf727.html) (9)
+> 
+> `least biased` | `napavalleyregister.com` 
+>> But this trip had an unsettling background theme. We left the day the **Carr Fire** began its destructive attack on Redding. We had planned to stop in Redding for lunch, but instead we saw the huge smoke column and listened to all-too-familiar radio reports of ... 
+> 
+> [This started out as the best air-quality summer in the Valley. Then wildfires ignited](https://www.fresnobee.com/opinion/editorials/article216411585.html) (8)
+> 
+> `left-center bias` | `www.fresnobee.com` 
+>> The Ferguson **Fire** impacting the surrounding areas with smoke ... Initial wildfires impacting the Valley include the Ferguson, **Carr**, and Mendocino fires, with the Valley and state now reeling from the impacts of at least 18 large wildfires. 
+> 
++ #### Old-items 
+> [Nadine Bailey: Redding shows resilience in face of **Carr Fire**](https://www.redding.com/story/opinion/2018/08/12/nadine-bailey-redding-shows-resilience-face-carr-fire/959413002/) (1)
+> 
+>> Nadine Bailey: Redding shows resilience in face of **Carr Fire** Columnist Nadine **Carr** writes about how the **Carr Fire** brought Redding together in the face of disaster. Check out this story on redding.com: https://reddingne.ws/2w1iExA 
+> 
+> [Richard Malotky: Redding stood tall as **Carr Fire** raged](https://www.redding.com/story/opinion/2018/08/11/richard-malotky-redding-stood-tall-carr-fire-raged/959668002/) (2)
+> 
+>> My hometown was on **fire**. People died, many more were injured. Many of my friend&#x27;s homes burned, and I feel helpless to make things better. This **fire** is a monster — a monster I couldn&#x27;t imagine in my worst dream. Yet it is here, and many good ... 
+> 
+> [This started out as the best air-quality summer in the Valley. Then wildfires ignited](https://www.fresnobee.com/opinion/editorials/article216411585.html) (8)
+> 
+>> The Ferguson **Fire** impacting the surrounding areas with smoke ... Initial wildfires impacting the Valley include the Ferguson, **Carr**, and Mendocino fires, with the Valley and state now reeling from the impacts of at least 18 large wildfires. 
+> 
+> [From the Editor: Our new constant companion](https://napavalleyregister.com/opinion/columnists/from-the-editor-our-new-constant-companion/article_051a2429-423f-5c83-87a0-911d216cf727.html) (9)
+> 
+>> But this trip had an unsettling background theme. We left the day the **Carr Fire** began its destructive attack on Redding. We had planned to stop in Redding for lunch, but instead we saw the huge smoke column and listened to all-too-familiar radio reports of ... 
+> 
+ ## mollie tibbetts
++ #### MP-items 
+> [Omarosa&#x27;s actions are despicable, but Trump&#x27;s &#x27;dog&#x27; attack goes too far](https://www.msn.com/en-us/news/opinion/omarosas-actions-are-despicable-but-trumps-dog-attack-goes-too-far/ar-BBLWt2R) (2)
+> 
+> `left-center bias` | `www.msn.com` 
+>> Here’s a Better Stock to Buy The Motley Fool More From FOX News Cops: Dad faces murder charge after beating man who followed daughter Ohio special election vote count drags on, as state defends tally **Mollie Tibbetts** website surge forces cops to add ... 
+> 
+> [The one thing we can do for **Mollie Tibbetts**](http://www.foxnews.com/opinion/2018/08/11/one-thing-can-do-for-mollie-tibbetts.html) (1)
+> 
+> `right bias` | `www.foxnews.com` 
+>> Expressions of anguish and hope are being heard from around the nation as the search for **Mollie Tibbetts** drags on. The 20-year-old University of Iowa student disappeared over three weeks ago. Experts believe **Tibbetts**’ disappearance involves foul play ... 
+> 
++ #### Old-items 
+> [The one thing we can do for **Mollie Tibbetts**](http://www.foxnews.com/opinion/2018/08/11/one-thing-can-do-for-mollie-tibbetts.html) (1)
+> 
+>> Expressions of anguish and hope are being heard from around the nation as the search for **Mollie Tibbetts** drags on. The 20-year-old University of Iowa student disappeared over three weeks ago. Experts believe **Tibbetts**’ disappearance involves foul play ... 
+> 
+> [Omarosa&#x27;s actions are despicable, but Trump&#x27;s &#x27;dog&#x27; attack goes too far](https://www.msn.com/en-us/news/opinion/omarosas-actions-are-despicable-but-trumps-dog-attack-goes-too-far/ar-BBLWt2R) (2)
+> 
+>> Here’s a Better Stock to Buy The Motley Fool More From FOX News Cops: Dad faces murder charge after beating man who followed daughter Ohio special election vote count drags on, as state defends tally **Mollie Tibbetts** website surge forces cops to add ... 
+> 
+> [Kneeling NFL players should stand up and work with President Trump to achieve their goals](https://www.msn.com/en-us/news/opinion/kneeling-nfl-players-should-stand-up-and-work-with-president-trump-to-achieve-their-goals/ar-BBLOZWd) (3)
+> 
+>> Here’s a Better Stock to Buy The Motley Fool More From FOX News Gas explosion levels Denver apartment building, nine injured **Mollie Tibbetts** reward jumps to nearly $400,000 amid ongoing search Nun busted at Sydney airport for cocaine in high heels ... 
+> 
+ ## omarosa recording
++ #### MP-items 
+> [The Raging Dumpster Fire of the President vs. **Omarosa**](https://www.nytimes.com/2018/08/13/opinion/editorials/trump-omarosa-firing-recording.html) (2)
+> 
+> `left-center bias` | `www.nytimes.com` 
+>> President Trump’s spat with **Omarosa** Manigault Newman ... even in secure areas of the White House where personal **recording** devices are strictly prohibited. No matter how Ms. Manigault Newman may feel about this administration and its lack of truthfulness ... 
+> 
+> [**Omarosa** acted dishonorably by **recording** confidential White House conversations – but here’s the bigger problem](http://www.foxnews.com/opinion/2018/08/17/omarosa-acted-dishonorably-by-recording-confidential-white-house-conversations-but-here-s-bigger-problem.html) (1)
+> 
+> `right bias` | `www.foxnews.com` 
+>> Even if you strongly oppose President Trump and want to see him defeated in 2020 or impeached before then, you should hope his presidential campaign succeeds with its legal action against **Omarosa** Manigault Newman alleging she violated a nondisclosure ... 
+> 
++ #### Old-items 
+> [**Omarosa** acted dishonorably by **recording** confidential White House conversations – but here’s the bigger problem](http://www.foxnews.com/opinion/2018/08/17/omarosa-acted-dishonorably-by-recording-confidential-white-house-conversations-but-here-s-bigger-problem.html) (1)
+> 
+>> Even if you strongly oppose President Trump and want to see him defeated in 2020 or impeached before then, you should hope his presidential campaign succeeds with its legal action against **Omarosa** Manigault Newman alleging she violated a nondisclosure ... 
+> 
+> [The Raging Dumpster Fire of the President vs. **Omarosa**](https://www.nytimes.com/2018/08/13/opinion/editorials/trump-omarosa-firing-recording.html) (2)
+> 
+>> President Trump’s spat with **Omarosa** Manigault Newman ... even in secure areas of the White House where personal **recording** devices are strictly prohibited. No matter how Ms. Manigault Newman may feel about this administration and its lack of truthfulness ... 
 > 
